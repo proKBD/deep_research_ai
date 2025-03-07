@@ -1,0 +1,6 @@
+langchain==0.1.12
+langgraph==0.0.20
+langchain-core==0.1.34
+tavily-python
+llama-cpp-python==0.2.68
+python-dotenv
