@@ -7,7 +7,7 @@ This project creates a **dual-agent system** for deep research using:
 - LangGraph & LangChain for workflow orchestration.
 
 ###  Download Mistral
- mistral-7b-instruct-v0.2.Q4_0.gguf
+ -mistral-7b-instruct-v0.2.Q4_0.gguf
  -Place the file in Models folder     
 
 ### Setup
